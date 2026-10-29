@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TG TWS Skip Fix</string>
+    <string name="xposed_desc">Fixes Bluetooth media buttons (play/pause and skip) for Telegram on HyperOS / Android</string>
+</resources>
